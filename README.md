@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-This repository contains the exercise of week 8 of MITxPRO Professional Certificate in Programming: Full-Stack Development with MERN.
+This repository contains the exercise of week 8 of MITxPRO Professional Certificate in Programming: Full-Stack Development with MERN. Display a pair of eyes on the window. These eyes follow the coursor to each part of the window.
 
 ## :sparkles: Roadmap ##
 
